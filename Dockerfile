@@ -1,4 +1,4 @@
-FROM php:8.1.1-fpm
+FROM php:8.2.0alpha1-fpm
 
 # Arguments
 ARG user=nelson
